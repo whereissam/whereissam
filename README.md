@@ -8,7 +8,7 @@
 - ☕️ Inide hacker
 - 📱 Learning AIGC related
 - 📷 Interested in photography
-- 📍 Living in Berlin, Germanu
+- 📍 Living in Berlin, Germany
 - 📫 Reach me - the.samedata@gmail.com
 
 <!---
