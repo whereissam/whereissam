@@ -9,6 +9,7 @@
 - 📱 Learning AIGC related
 - 📷 Interested in photography
 - 📍 Living in Berlin, Germany
+- 📬 Creator of [AIDotDev newsletter](https://www.aidot.dev/) - A Developer focus AI newsletter
 - 📫 Reach me - [Personal Website](https://dev.blockspaces.xyz/)
 
 <!---
