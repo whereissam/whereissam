@@ -2,14 +2,17 @@
 
 ![](https://github.com/whereissam/whereissam/blob/main/dist/github-contribution-grid-snake.svg)
 
-- 👋 Hi, I’m @whereissam
-- 💻 Software engineer
-- 🕸 Full-Stack Web Developer
+I'm @whereissam, a software engineer curious about what happens when the tools change.
+
+AI has made it possible to build things I wouldn't have attempted before.
+
+So I'm spending more time experimenting, learning new tools, and discovering new ways to turn ideas into software.
+
+Currently exploring AI, software, and robotics.
+
 - ☕️ Inide hacker
-- 📱 Learning AIGC related
 - 📷 Interested in photography
 - 📍 Living in Berlin, Germany
-- 📬 Creator of [AIDotDev newsletter](https://www.aidot.dev/) - A Developer focus AI newsletter
 - 📫 Reach me - [Personal Website](https://dev.blockspaces.xyz/)
 
 <!---
